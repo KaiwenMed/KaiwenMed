@@ -23,10 +23,10 @@ img {
 }
 
 figure {    
-    max-width: 1000px; /* Set a maximum width for the figure */
-    margin: 0 auto; /* Center the figure if needed */
-    padding: 10px; /* Add padding for spacing if needed */
-    text-align: center; /* Center-align content inside */
+    max-width: 1000px; 
+    margin: 0 auto; 
+    padding: 10px; 
+    text-align: center; 
 }
 
 /* header style 
